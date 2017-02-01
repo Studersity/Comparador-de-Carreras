@@ -1,2 +1,1 @@
-# Comparador-de-Carreras
-Comparador de Carreras V2
+# Buscador-de-Becas-V2
